@@ -1,0 +1,16 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true
+  },
+  "editor.wordWrap": "on",
+  "i18n-ally.localesPaths": [
+    "public/locales"
+  ],
+  "i18n-ally.keystyle": "nested",
+}

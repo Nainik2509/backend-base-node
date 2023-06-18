@@ -1,0 +1,10 @@
+
+  <!-- The ".nvmrc" file is used to specify a version of Node.js for a project. NVM stands for Node Version Manager, which is a command-line tool used for managing multiple active Node.js versions.
+
+By creating a file named ".nvmrc" in the root directory of your project, you can specify the version of Node.js that should be used for the project. This allows different projects to use different versions of Node.js, and it ensures that the project is running with the correct version.
+
+For example, if you specify "14.17.0" in the .nvmrc file, running "nvm use" command will switch to this version of Node.js if this version is installed on your system.
+
+Overall, the .nvmrc file is a useful tool for ensuring that your project uses the correct version of Node.js, and for maintaining consistency across different projects. -->
+
+lts/hydrogen
